@@ -5,4 +5,4 @@ Valerie Hellinghausen
 Maddie Ptacin
 Jason Boatright
 Krzysztof Seroka
-Lambert RIYAZIMANA
+Lambert Riyazimana
