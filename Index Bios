@@ -32,16 +32,159 @@
   <h1>Bios</h1>
 </div>
     <div>
+<<<<<<< HEAD
       <image>assets/images/photo1.png</image>
     <h1>Jeanne Abbott</h1>
     <p>Managing Editor</p>
     <ol>
 
+=======
+    <h3>Jeanne Abbott</h3>
+    <p>Managing Editor</p>
+    <ul>
+>>>>>>> origin/feature-bios
       <li>Phone: (573) 882-5741</li>
       <li>Email: abbottjm@missouri.edu</li>
       <li>Full Bio</li>
-    </ol>
+    </ul>
+    <h3>Katherine Reed</h3>
+    <p>Health and Public Safety editor</p>
+    <ul>
+      <li>Phone: (573) 882-1792</li>
+      <li>Email: reedkath@missouri.edu</li>
+      <li>Full Bio</li>
+    </ul>
+    <h3>John Schneller</h3>
+    <p>Enterprise Editor</p>
+    <ul>
+      <li>Phone: (573) 884-2103</li>
+      <li>Email: schnellerj@missouri.edu</li>
+      <li>Full Bio</li>
+    </ul>
+    <h3>Elizabeth Stephens</h3>
+    <p>News Editor</p>
+    <ul>
+      <li>Phone: (573) 882-9951</li>
+      <li>Email: stephensec@missouri.edu</li>
+      <li>Full Bio</li>
+    </ul>
+    <h3>Scott Swafford</h3>
+    <p>Public Life Editor</p>
+    <ul>
+      <li>Phone: (573) 884-6149</li>
+      <li>Email: swaffords@missouri.edu</li>
+      <li>Full Bio</li>
+    </ul>
+    <h3>Maggie Walter</h3>
+    <p>News Editor</p>
+    <ul>
+      <li>Phone: (573) 884-6149</li>
+      <li>Email: waltermr@missouri.edu</li>
+      <li>Full Bio</li>
+    </ul>
+    <h3>Tom Warhover</h3>
+    <p>Executive Editor</p>
+    <ul>
+      <li>Phone: (573) 882-5734</li>
+      <li>Email: warhovert@missouri.edu</li>
+      <li>Full Bio</li>
+=======
+      <li>Full Missourian Bio</li>
+>>>>>>> origin/feature-bios
+    </ul>
     </div>
+
+    <div>
+    <h1>Gerri Berendzen</h1>
+    <p>News Editor</p>
+    <ul>
+      <li>Phone: (573) 882-5739</li>
+      <li>Email: berendzeng@missouri.edu</li>
+      <li>Full Missourian Bio</li>
+    </ul>
+    </div>
+
+    <div>
+    <h1>Greg Bowers</h1>
+    <p>Sports Editor</p>
+    <ul>
+      <li>Phone: (573) 882-5729</li>
+      <li>Email: bowersg@missouri.edu</li>
+      <li>Full Missourian Bio</li>
+    </ul>
+    </div>
+
+    <div>
+    <h1>Elizabeth Brixey</h1>
+    <p>Education Editor</p>
+    <ul>
+      <li>Phone: (573) 882-2632</li>
+      <li>Email: brixeye@missouri.edu</li>
+      <li>Full Missourian Bio</li>
+    </ul>
+    </div>
+
+    <div>
+    <h1>Bryan Chester</h1>
+    <p>Marketing Manager</p>
+    <ul>
+      <li>Phone: (573) 882-5748</li>
+      <li>Email: chesterb@missouri.edu</li>
+      <li>Full Missourian Bio</li>
+    </ul>
+    </div>
+
+    <div>
+    <h1>Laura Johnston</h1>
+    <p>Opinion Editor/News Editor</p>
+    <ul>
+      <li>Phone: (573) 882-6870</li>
+      <li>Email: johnstonlc@missouri.edu</li>
+      <li>Full Missourian Bio</li>
+    </ul>
+    </div>
+
+    <div>
+    <h1>Brian Kratzer</h1>
+    <p>Director of Photography</p>
+    <ul>
+      <li>Phone: (573) 884-0693</li>
+      <li>Email: kratzerb@missouri.edu</li>
+      <li>Full Missourian Bio</li>
+    </ul>
+    </div>
+
+    <div>
+    <h1>Joy Mayer</h1>
+    <p>Director of Community Outreach</p>
+    <ul>
+      <li>Phone: (573) 882-8182</li>
+      <li>Email: mayerj@missouri.edu</li>
+      <li>Full Missourian Bio</li>
+    </ul>
+    </div>
+
+    <div>
+    <h1>Bruce Moore</h1>
+    <p>Director of Audience Development</p>
+    <ul>
+      <li>Phone: (573) 882-5742</li>
+      <li>Email: mooreba@missouri.edu</li>
+      <li>Full Missourian Bio</li>
+    </ul>
+    </div>
+
+    <div>
+    <h1>Dan Potter</h1>
+    <p>General Manager</p>
+    <ul>
+      <li>Phone: (573) 882-5707</li>
+      <li>Email: potterds@missouri.edu</li>
+      <li>Full Missourian Bio</li>
+    </ul>
+    </div>
+
+
 
 
     <footer>
