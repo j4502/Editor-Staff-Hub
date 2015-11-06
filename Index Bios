@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+  <title>Bios</title>
+  <meta charset="utf-8">
+  <meta name="author" content="Editor Staff Hub j4502">
+  <meta name="description" content="Editor Staff Hub">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="assets/application.css" rel="stylesheet" title="Default Style">
+ </head>
+
+<body>
+<img src="assets/images/logo.png" alt="Columbia Missourian Logo">
+<img src="assets/images/weather.png" alt="Weather"/>
+
+    <header>
+      <h3>Missourian Editor Staff Hub</h3>
+      <nav>
+      <ul>
+        <li><a href="#">Contact</a></li>
+        <li><a href="#">Bios</a></li>
+        <li><a href="#">Join the Conversation</a></li>
+        <li><a href="#">Subscribe</a></li>
+        <li><a href="#">Advertise With Us</a></li>
+        <li><a href="#">History</a></li>
+        <li><a href="#">From the Newsroom</a></li>
+      </ul>
+     </nav>
+    </header>
+<div>
+  <h1>Bios</h1>
+</div>
+    <div>
+      <ul>
+        <li>Newsroom: <a href="tel:1-573-882-5720">(573) 882-5720</a></li>
+        <li>Circulation: <a href="tel:1-573-882-5700">(573) 882-5700</a></li>
+        <li>Advertising: <a href="tel:1-573-882-5714">(573) 882-5714</a></li>
+        <li>Classified: <a href="tel:1-573-882-5710">(573) 882-5710</a></li>
+        <li>Address: Lee Hills Hall 221 S. Eighth St. Columbia, MO </li>
+      </ul>
+    </div>
+
+
+    <footer>
+         <h3>Editor Staff Hub</h3>
+       <p>Copyright &copy; 2015 The Columbia Missourian, 221 South Eighth Street Columbia, MO | Privacy Policy</p>
+       <p><a href="#"> Go to top of page </a></p>
+     </footer>
+  </body>
+</html>
