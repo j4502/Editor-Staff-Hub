@@ -80,14 +80,11 @@
       <li>Phone: (573) 882-5734</li>
       <li>Email: warhovert@missouri.edu</li>
       <li>Full Bio</li>
-=======
       <li>Full Missourian Bio</li>
->>>>>>> origin/feature-bios
     </ul>
     </div>
-
     <div>
-    <h1>Gerri Berendzen</h1>
+    <h3>Gerri Berendzen</h3>
     <p>News Editor</p>
     <ul>
       <li>Phone: (573) 882-5739</li>
@@ -97,7 +94,7 @@
     </div>
 
     <div>
-    <h1>Greg Bowers</h1>
+    <h3>Greg Bowers</h3>
     <p>Sports Editor</p>
     <ul>
       <li>Phone: (573) 882-5729</li>
@@ -107,7 +104,7 @@
     </div>
 
     <div>
-    <h1>Elizabeth Brixey</h1>
+    <h3>Elizabeth Brixey</h3>
     <p>Education Editor</p>
     <ul>
       <li>Phone: (573) 882-2632</li>
@@ -117,7 +114,7 @@
     </div>
 
     <div>
-    <h1>Bryan Chester</h1>
+    <h3>Bryan Chester</h3>
     <p>Marketing Manager</p>
     <ul>
       <li>Phone: (573) 882-5748</li>
@@ -127,7 +124,7 @@
     </div>
 
     <div>
-    <h1>Laura Johnston</h1>
+    <h3>Laura Johnston</h3>
     <p>Opinion Editor/News Editor</p>
     <ul>
       <li>Phone: (573) 882-6870</li>
@@ -137,7 +134,7 @@
     </div>
 
     <div>
-    <h1>Brian Kratzer</h1>
+    <h3>Brian Kratzer</h3>
     <p>Director of Photography</p>
     <ul>
       <li>Phone: (573) 884-0693</li>
@@ -147,7 +144,7 @@
     </div>
 
     <div>
-    <h1>Joy Mayer</h1>
+    <h3>Joy Mayer</h3>
     <p>Director of Community Outreach</p>
     <ul>
       <li>Phone: (573) 882-8182</li>
