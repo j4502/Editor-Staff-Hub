@@ -32,13 +32,13 @@
   <h1>Bios</h1>
 </div>
     <div>
-      <ul>
-        <li>Newsroom: <a href="tel:1-573-882-5720">(573) 882-5720</a></li>
-        <li>Circulation: <a href="tel:1-573-882-5700">(573) 882-5700</a></li>
-        <li>Advertising: <a href="tel:1-573-882-5714">(573) 882-5714</a></li>
-        <li>Classified: <a href="tel:1-573-882-5710">(573) 882-5710</a></li>
-        <li>Address: Lee Hills Hall 221 S. Eighth St. Columbia, MO </li>
-      </ul>
+    <h1>Jeanne Abbott</h1>
+    <p>Managing Editor</p>
+    <ol>
+      <li>Phone: (573) 882-5741</li>
+      <li>Email: abbottjm@missouri.edu</li>
+      <li>Full Bio</li>
+    </ol>
     </div>
 
 
