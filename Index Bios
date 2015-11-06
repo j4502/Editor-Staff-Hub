@@ -32,13 +32,55 @@
   <h1>Bios</h1>
 </div>
     <div>
-    <h1>Jeanne Abbott</h1>
+    <h3>Jeanne Abbott</h3>
     <p>Managing Editor</p>
-    <ol>
+    <ul>
       <li>Phone: (573) 882-5741</li>
       <li>Email: abbottjm@missouri.edu</li>
       <li>Full Bio</li>
-    </ol>
+    </ul>
+    <h3>Katherine Reed</h3>
+    <p>Health and Public Safety editor</p>
+    <ul>
+      <li>Phone: (573) 882-1792</li>
+      <li>Email: reedkath@missouri.edu</li>
+      <li>Full Bio</li>
+    </ul>
+    <h3>John Schneller</h3>
+    <p>Enterprise Editor</p>
+    <ul>
+      <li>Phone: (573) 884-2103</li>
+      <li>Email: schnellerj@missouri.edu</li>
+      <li>Full Bio</li>
+    </ul>
+    <h3>Elizabeth Stephens</h3>
+    <p>News Editor</p>
+    <ul>
+      <li>Phone: (573) 882-9951</li>
+      <li>Email: stephensec@missouri.edu</li>
+      <li>Full Bio</li>
+    </ul>
+    <h3>Scott Swafford</h3>
+    <p>Public Life Editor</p>
+    <ul>
+      <li>Phone: (573) 884-6149</li>
+      <li>Email: swaffords@missouri.edu</li>
+      <li>Full Bio</li>
+    </ul>
+    <h3>Maggie Walter</h3>
+    <p>News Editor</p>
+    <ul>
+      <li>Phone: (573) 884-6149</li>
+      <li>Email: waltermr@missouri.edu</li>
+      <li>Full Bio</li>
+    </ul>
+    <h3>Tom Warhover</h3>
+    <p>Executive Editor</p>
+    <ul>
+      <li>Phone: (573) 882-5734</li>
+      <li>Email: warhovert@missouri.edu</li>
+      <li>Full Bio</li>
+    </ul>
     </div>
 
 
