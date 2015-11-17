@@ -19,3 +19,12 @@ p {
   font-family: 'Helvetica Neue', sans-serif;
   font-size: 1.6em;
 }
+
+<div class="section group">
+	<div class="col span_1_of_2">
+	This is column 1
+	</div>
+	<div class="col span_1_of_2">
+	This is column 2
+	</div>
+</div>
