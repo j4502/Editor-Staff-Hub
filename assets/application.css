@@ -38,3 +38,9 @@ h3 {
 p {
   font-family: 'Helvetica Neue', sans-serif;
   font-size: 2.0em;
+}
+
+ul, dl, dd, dt {
+      margin: 0;
+      padding: 0;
+  }
