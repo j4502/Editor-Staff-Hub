@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 @import "bootstrap.min.css";
 
 ---------------------------------------------------------------- */
@@ -14,6 +15,10 @@ svg {
 @@ -0,0 +1,21 @@
 body {
   font-size: 62.5%;
+=======
+body {
+  font-size: 100%;
+>>>>>>> origin/feature-bios
 }
 
 h1, h2, h3 {
@@ -22,13 +27,26 @@ h1, h2, h3 {
 }
 
 h2 {
+<<<<<<< HEAD
   font-size: 2.2em;
 }
 
 h3 {
   font-size: 2em;
+=======
+  font-size: 0.7em;
+}
+
+h3 {
+  font-size: 1em;
+>>>>>>> origin/feature-bios
 }
 
 p {
   font-family: 'Helvetica Neue', sans-serif;
+<<<<<<< HEAD
   font-size: 1.6em;
+=======
+  font-size: 0.7em;
+}
+>>>>>>> origin/feature-bios
