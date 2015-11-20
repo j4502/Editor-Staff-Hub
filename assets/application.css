@@ -14,26 +14,22 @@ svg {
 @@-0,0 +1,21@@
 body {
   font-size: 62.5%;
-  <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Source+Sans+Pro">
-  <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Helvetica+Neue">
-
 }
 
 h1, h2, h3 {
-  font-family:'Source Sans Pro', sans-serif;
+  font-family: 'Source Sans Pro', sans-serif;
   font-weight: 700;
   font-size: 2.8em;
 }
 
 h2 {
-  font-family:'Source Sans Pro', sans-serif;
+  font-family: 'Source Sans Pro', sans-serif;
   font-size: 2.4em;
   font-weight: 400;
 }
 
 h3 {
-  font-family:'Source Sans Pro', sans-serif;
-  font-size: 2.2em;
+  font-family: 'Source Sans Pro', sans-serif;
 }
 
 p {
