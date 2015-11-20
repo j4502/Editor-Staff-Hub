@@ -22,20 +22,20 @@ body {
 h1, h2, h3 {
   font-family:'Source Sans Pro', sans-serif;
   font-weight: 700;
-  font-size: 2.4em;
+  font-size: 2.8em;
 }
 
 h2 {
   font-family:'Source Sans Pro', sans-serif;
-  font-size: 2.2em;
+  font-size: 2.4em;
   font-weight: 400;
 }
 
 h3 {
   font-family:'Source Sans Pro', sans-serif;
-  font-size: 2em;
+  font-size: 2.2em;
 }
 
 p {
   font-family: 'Helvetica Neue', sans-serif;
-  font-size: 1.6em;
+  font-size: 2.0em;
