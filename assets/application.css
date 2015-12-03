@@ -52,7 +52,9 @@ ul, dl, dd, dt {
 
 }
 
-.container-fluid {
-  background: #2f4879;
-  font: #ffffff;
-  padding: 1em 0;
+.col-xs-12 p {
+  width: 100%;
+  color: white;
+  background-color: blue; 
+
+}
