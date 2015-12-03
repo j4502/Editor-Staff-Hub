@@ -52,9 +52,9 @@ ul, dl, dd, dt {
 
 }
 
-.col-xs-12 p {
+.hub_buttons {
   width: 100%;
-  color: white;
-  background-color: blue; 
+  color: #ffffff;
+  background-color: #2f4879; 
 
 }
