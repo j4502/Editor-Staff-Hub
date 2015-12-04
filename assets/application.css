@@ -57,4 +57,15 @@ ul, dl, dd, dt {
   color: #ffffff;
   background-color: #2f4879;
   padding: 1em 0;
+  margin-bottom: 1.5px;
+}
+
+
+.hub_buttons a {
+color: #ffffff ;
+}
+
+.hub_buttons a {
+style:   font-family: 'Helvetica Neue', sans-serif;
+  font-size: 2.0em;; 
 }
