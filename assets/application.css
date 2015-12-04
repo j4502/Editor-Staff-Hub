@@ -63,9 +63,8 @@ ul, dl, dd, dt {
 
 .hub_buttons a {
 color: #ffffff ;
-}
-
-.hub_buttons a {
+  text-decoration: none; /* no underline */
 style:   font-family: 'Helvetica Neue', sans-serif;
-  font-size: 2.0em;; 
+  font-size: 2.0em;
+text-align: center;
 }
