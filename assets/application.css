@@ -12,7 +12,7 @@ svg {
 
 
 body {
-  font-size: 100%;
+  font-size: 0.9em;
 }
 
 h1, h2, h3 {
@@ -64,7 +64,7 @@ ul, dl, dd, dt {
 .hub_buttons a {
 color: #ffffff ;
   text-decoration: none; /* no underline */
-style:   font-family: 'Helvetica Neue', sans-serif;
+  font-family: 'Helvetica Neue', sans-serif;
   font-size: 2.0em;
 text-align: center;
 }
